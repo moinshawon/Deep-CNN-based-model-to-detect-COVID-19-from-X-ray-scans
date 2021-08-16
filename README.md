@@ -1,0 +1,1 @@
+# Deep-CNN-based-model-to-detect-COVID-19-from-X-ray-scans
